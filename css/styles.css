@@ -1,0 +1,42 @@
+.pagina{
+	height: 80%;
+	width: 600px;
+	margin-left: 360px;
+}
+
+
+.fecha{
+	color: red;
+}
+
+hr {
+  height: 2px;
+  width: 80%;
+  background-color: black;
+}
+
+.river{
+	display: flex;
+	flex-direction: row;
+}
+
+.houston{
+	display: flex;
+	flex-direction: row;
+}
+
+#river{
+	width: 130px;
+	height: 50%;
+}
+
+#houston{
+	width: 130px;
+	height: 50%;
+}
+
+#mfah{
+	width: 550px;
+	height: 80%;
+}
+
